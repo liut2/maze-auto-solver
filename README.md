@@ -1,5 +1,5 @@
 maze-auto-solver
 ================
 
-This is a program I wrote in Java to transform the text-form maze into a two dimensional maze and automatically solve it. After you compile the java code, you should input:
+This is a program I wrote in Java to transform the text-form maze into a two dimensional maze and automatically solve it. After you compile the java code, you should enter in the terminal:
 java Maze maze.txt showsolution
